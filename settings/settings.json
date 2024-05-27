@@ -1,0 +1,5 @@
+{
+    "selected_nn_models": "best.pt",
+    "frame_delay": 1,
+    "operating_mode": "детекция"
+}
