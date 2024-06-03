@@ -1,4 +1,3 @@
-
 from sqlalchemy.orm import sessionmaker
 from models_db.TreshStatTable import TrashStatTable
 import pandas as pd

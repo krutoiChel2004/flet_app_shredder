@@ -91,7 +91,7 @@ class WebcamStreamer(ft.UserControl):
         self.button_start.disabled = True
         
         self.update()
-        self.cap = cv2.VideoCapture(0)
+        self.cap = cv2.VideoCapture(1)
         self.button_stop.disabled = False
         
         while self.cap.isOpened():

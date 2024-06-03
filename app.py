@@ -7,7 +7,6 @@ from pages.pages import (page_home,
 
 def main(page: ft.Page):
     page.title = "fletCam"
-
     def route_change(route):
         page.views.clear()
         page_home(page)

@@ -1,5 +1,6 @@
 {
-    "selected_nn_models": "best.pt",
-    "frame_delay": 1,
-    "operating_mode": "детекция"
+    "selected_nn_models": "yolov8n.pt",
+    "frame_delay": 2,
+    "operating_mode": "сбор данных",
+    "frame_save_directory": "C:\\Users\\matve\\OneDrive\\Рабочий стол\\img"
 }
